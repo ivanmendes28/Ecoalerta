@@ -52,7 +52,7 @@ EcoAlerta/
 ### 2. Clonar o repositório
 
 ```bash
-git clone https://github.com/Larissa-Barbosa-Silva/EcoAlerta.git
+git clone https://github.com/ivanmendes28/Ecoalerta
 ```
 
 ### 3. Acessar a pasta do projeto
